@@ -4,7 +4,7 @@ import Dinner from './dinner';
 function App() {
   return (
     <div className="App">
-       <Dinner></Dinner>
+       <Dinner dishname="biryani"></Dinner>
     </div>
   );
 }
