@@ -1,10 +1,10 @@
 import React from 'react';
-import Dinner from './dinner';
+import Car from './cars.js';
 
 function App() {
   return (
     <div className="App">
-       <Dinner dishname="biryani"></Dinner>
+       <Car></Car>
     </div>
   );
 }
